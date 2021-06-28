@@ -1,6 +1,5 @@
 package ru.geekbrains.lesson4;
 
-package ru.geekbrains.lesson4;
 
 import javax.swing.*;
 import java.awt.*;
